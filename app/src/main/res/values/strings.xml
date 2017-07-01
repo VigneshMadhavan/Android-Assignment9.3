@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment9.3</string>
+    <string name="saveBtnLabel">Save File</string>
+    <string name="checkBtn_Label">Check File</string>
+</resources>
